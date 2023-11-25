@@ -1,0 +1,2 @@
+valgrind --leak-check=full ./executable
+./cpplint.py [files to check]
